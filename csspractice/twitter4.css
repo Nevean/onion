@@ -1,0 +1,48 @@
+p.realname{
+	color:#333333;
+}
+
+.username{
+	color:gray;
+	font-weight:default;
+}
+
+p.maintext{
+	font-size: 18px;
+}
+
+a.mention{
+	font-weight: bold;
+}
+
+p.class{
+	color:gray;
+}
+
+a{
+	color:#008AB9;
+}
+
+p{
+	font-family:Arial, sans-serif;
+}
+
+/*box model*/
+
+p{
+	margin: 5px
+}
+
+img{
+	width:430px;
+}
+
+.maintext{
+	width:430px;
+	padding:10px;
+	border-bottom:1px solid gray;
+}
+
+
+
+
